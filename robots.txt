@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooyeishaeg.michaelwang.top/sitemap.xml
